@@ -1,4 +1,4 @@
-Privacy Policy for Android Messages Sidebar
+Privacy Policy for Web WhatsApp Sidebar
 
 Data Collection: This extension does not collect, store, or transmit any user data.
 
