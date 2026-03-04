@@ -5,7 +5,7 @@ chrome.sidePanel
 chrome.runtime.onInstalled.addListener(() => {
   // This tells the extension: "When you open the sidebar, go straight to Google"
   chrome.sidePanel.setOptions({
-    path: 'https://messages.google.com/web/authentication',
+    path: 'https://web.whatsapp.com/',
     enabled: true
   });
   // This opens the side panel immediately after installation
