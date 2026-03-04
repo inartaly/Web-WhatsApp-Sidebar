@@ -5,7 +5,7 @@
   "permissions": ["sidePanel"],
   "host_permissions": ["https://web.whatsapp.com/*"],
   "action": {
-    "default_title": "Open Android Messages",
+    "default_title": "Open WhatsApp Web Messages",
     "default_icon": {
       "16": "icon16.png",
       "32": "icon32.png",
